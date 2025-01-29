@@ -1,3 +1,3 @@
-# New project
-
-this projrct was created from local system
+# New Project
+this project was created from local system
+ 
